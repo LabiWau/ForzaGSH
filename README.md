@@ -17,7 +17,7 @@ pip install numpy mss pygame tk
 ## Installation and Setup
 Clone the repository:
 ```bash
-git clone [https://github.com/YOUR_GITHUB_USERNAME/ForzaGSH.git](https://github.com/YOUR_GITHUB_USERNAME/ForzaGSH.git)
+git clone [https://github.com/LabiWau/ForzaGSH.git](https://github.com/YOUR_GITHUB_USERNAME/ForzaGSH.git)
 cd ForzaGSH
 ```
 
