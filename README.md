@@ -9,9 +9,7 @@ It features an on-screen visual overlay helper to easily align the tracking area
 * **Visual Overlay:** A semi-transparent overlay to help configure position boundaries coordinates perfectly.
 * **Audio Alerts:** Plays a clear audio signal via `pygame` the millisecond you hit the optimal shift point.
 
-## Installation & Setup
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/YOUR_GITHUB_USERNAME/ForzaGSH.git](https://github.com/YOUR_GITHUB_USERNAME/ForzaGSH.git)
-   cd ForzaGSH
+## Requirements 
+Make sure you have Python 3 installed, then run:
+```bash
+      pip install numpy mss pygame tk
