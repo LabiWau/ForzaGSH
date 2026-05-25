@@ -33,7 +33,7 @@ REGION = {"top": 850, "left": 1700, "width": 80, "height": 80}
 Run the Script: 
 Start the application via your terminal:
 ```bash
-python forza.py
+python forzaGSH.py
 ```
 Once aligned, you can set SHOW_OVERLAY = False in the script to hide the setup box during actual gameplay.
 
